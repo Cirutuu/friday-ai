@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+
+jarvis-env/
+
+model
+*.zip
+
+.DS_Store
+
+memory.json
